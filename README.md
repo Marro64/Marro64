@@ -4,7 +4,6 @@ I'm currently working on some VR projects while looking for a job.
 Interests:
 - Virtual Reality
 - Low-level computing
-- Electronics
 
 Reach me on Discord:
 @marro64
