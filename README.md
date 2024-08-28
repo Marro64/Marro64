@@ -1,4 +1,13 @@
-## Hi there 👋
+Freshly out of college, finished my Creative Technology bachelor at the University of Twente.
+I'm currently working on some VR projects while looking for a job.
+
+Interests:
+- Virtual Reality
+- Low-level computing
+- Electronics
+
+Reach me on Discord:
+@marro64
 
 <!--
 **Marro64/Marro64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
