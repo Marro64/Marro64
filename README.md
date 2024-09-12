@@ -1,9 +1,5 @@
 Freshly out of college, finished my Creative Technology bachelor at the University of Twente.
-I'm currently working on some VR projects while looking for a job.
-
-Interests:
-- Virtual Reality
-- Low-level computing
+I'm currently working on some VR projects while looking for a job. My interests are mainly Virtual Reality and Low-level computing.
 
 Reach me on Discord:
 @marro64
